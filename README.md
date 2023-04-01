@@ -15,9 +15,7 @@ I'm a Software Engineering student at Samarkand State University with a passion 
 
 - [Real Time Mask Detection](https://github.com/Nurik1002/RealTimeMaskDetection)
 - [Programming Tasks In Python](https://github.com/Nurik1002/ProgrammingTasksInPython)
-- [AI Chatbot with Python](https://github.com/Nurik1002/AI-Chatbot-with-Python)
-- [Online Shop with Django](https://github.com/Nurik1002/OnlineShop-Django)
-- [Image Processing with Python](https://github.com/Nurik1002/ImageProcessing-Python)
+
 
 ## Connect With Me
 
