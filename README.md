@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI DL ML ANN CNN Algorithm SQL C++**
 
-- 💬 Ask me about **Samarkand State University Software engineering 2/4!**
+- 💬 Ask me about **Samarkand State University Software engineering 3/4!**
 
 - 📫 How to reach me **nyarashbayev97@gmail.com**
 
