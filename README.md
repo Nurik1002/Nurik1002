@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurik1002" alt="nurik1002" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning and Deep Learning]
+- 🔭 I’m currently working on Machine Learning and Deep Learning
 
 - 🌱 I’m currently learning **AI DL ML ANN CNN Algorithm SQL C++**
 
